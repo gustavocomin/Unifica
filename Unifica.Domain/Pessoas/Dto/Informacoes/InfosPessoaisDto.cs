@@ -1,5 +1,4 @@
-﻿using System.ComponentModel;
-using Unifica.Domain.Pessoas.Entity.Informacoes;
+﻿using Unifica.Domain.Pessoas.Entity.Informacoes;
 
 namespace Unifica.Domain.Pessoas.Dto.Informacoes
 {

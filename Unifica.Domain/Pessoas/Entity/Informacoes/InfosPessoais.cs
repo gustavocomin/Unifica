@@ -11,8 +11,6 @@ namespace Unifica.Domain.Pessoas.Entity.Informacoes
         public OrientacaoSexual? OrientacaoSexual { get; set; }
         public Genero? Genero { get; set; }
         public Pronomes? Pronomes { get; set; }
-
-        public virtual Pessoa Pessoa { get; set; }
     }
 
     public enum Pronomes
