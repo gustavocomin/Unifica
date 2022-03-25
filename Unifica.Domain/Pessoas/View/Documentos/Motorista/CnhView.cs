@@ -8,7 +8,7 @@ namespace Unifica.Domain.Pessoas.View.Documentos.Motorista
         public Guid IdPessoa { get; set; }
         public Guid IdOrgaoEmissor { get; set; }
         public DateTime Emissao { get; set; }
-        public DateTime PrimeiraHabilitacao { get; set; }
+        public DateTime DataPrimeiraHabilitacao { get; set; }
         public int NumeroRegistro { get; set; }
         public TipoCategoria Categoria { get; set; }
         public string CodigoSeguranca { get; set; }
